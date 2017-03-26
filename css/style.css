@@ -29,9 +29,13 @@ table {
 {
 	padding: 60px 0px;
 }
-h1, h2, h3, h4, h5, h6
+h1, h2, h4, h5, h6
 {
 	font-family: 'Lato', sans-serif;
+}
+h3
+{
+    font-family:'cinzel';
 }
 /**media Queries**/
 .navbar-default {
@@ -39,7 +43,7 @@ h1, h2, h3, h4, h5, h6
 }
 .main-header
 {
-	background-image: url('../img/silver-lining.jpg'); no-repeat;
+	background-image: url('/img/silver-lining.jpg'); no-repeat;
 	background-size: cover;
 	min-height: 610px;
 }
@@ -233,7 +237,7 @@ h3.txt-tl {
     background-position: center center;
 }
 .bg-image-2 {
-    background: url('../img/cta-banner.jpg') no-repeat center fixed;
+    background: url('../img/bggroudn.jpg') no-repeat center fixed;
     -webkit-background-size: 100% auto;
     -moz-background-size: 100% auto;
     -o-background-size: 100% auto;
