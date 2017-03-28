@@ -35,7 +35,7 @@ h1, h2, h4, h5, h6
 }
 h3
 {
-    font-family:'cinzel';
+    font-family:'Nanum Brush Script','cinzel';
 }
 /**media Queries**/
 .navbar-default {
